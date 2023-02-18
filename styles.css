@@ -1,2 +1,12 @@
-
+table{
+	width:80%;
+	border:1px solid black;
+	border-collapse:collapse;
+}
+td, th{
+ border:1px solid black;
+}
+th{
+	align-text:left;
+}
 /* Your CSS Code here. */
